@@ -1,7 +1,10 @@
 # Cafe-Bunny
-Café Bunny allows users to keep track and record cafes they have visited through a social media e-journal.
+Café Bunny allows users to keep track of and record cafes they have visited through a social media e-journal.
 
 ## Functionality 
+1. Allows users to keep track of the cafes that they have been to
+2. The application has gamification elements where users can earn achievements and discount codes
+3. Users can also leave reviews of visited cafes and record their experience through an e-journal
 
 ## Documentation 
 All documents can be found under the [Documentation](https://github.com/nikita-bachhas/Cafe-Bunny/tree/main/Documentation) folder
@@ -10,11 +13,11 @@ All documents can be found under the [Documentation](https://github.com/nikita-b
 3. Assessing software development process and testing techniques: [Lab 2 - Quality Plan.pdf](https://github.com/nikita-bachhas/Cafe-Bunny/blob/main/Documentation/Lab%202%20-%20Quality%20Plan.pdf)
 4. Requirements of the project: [Lab 2 - System Requirements Specification.pdf](https://github.com/nikita-bachhas/Cafe-Bunny/blob/main/Documentation/Lab%202%20-%20System%20Requirements%20Specification.pdf)
 5. Project organisation and scope: [Lab 3 - Project Plan.pdf](https://github.com/nikita-bachhas/Cafe-Bunny/blob/main/Documentation/Lab%203%20-%20Project%20Plan.pdf)
-6. Risk management and analyis: [Lab 3 - Risk Management Plan.pdf](https://github.com/nikita-bachhas/Cafe-Bunny/blob/main/Documentation/Lab%203%20-%20Risk%20Management%20Plan.pdf)
+6. Risk management and analysis: [Lab 3 - Risk Management Plan.pdf](https://github.com/nikita-bachhas/Cafe-Bunny/blob/main/Documentation/Lab%203%20-%20Risk%20Management%20Plan.pdf)
 7. Change management process and requirements: [Lab 4 - Change Management Plan.pdf](https://github.com/nikita-bachhas/Cafe-Bunny/blob/main/Documentation/Lab%204%20-%20Change%20Management%20Plan.pdf)
 8. Maintaiblity procedure and framework: [Lab 4 - Design Report on Software Maintainability .pdf](https://github.com/nikita-bachhas/Cafe-Bunny/blob/main/Documentation/Lab%204%20-%20Design%20Report%20on%20Software%20Maintainability%20.pdf)
 9. Release strategy: [Lab 4 - Release Plan.pdf](https://github.com/nikita-bachhas/Cafe-Bunny/blob/main/Documentation/Lab%204%20-%20Release%20Plan.pdf)
-10. Document that systematically manages, organises, and controls the changes in the documents, codes, and other entities during the Software Development Life Cycle: [Lab 4 - Software Configuration Management Plan.pdf](https://github.com/nikita-bachhas/Cafe-Bunny/blob/main/Documentation/Lab%204%20-%20Software%20Configuration%20Management%20Plan.pdf)
+10. Document that systematically manages, organises and controls the changes in the documents, codes, and other entities during the Software Development Life Cycle: [Lab 4 - Software Configuration Management Plan.pdf](https://github.com/nikita-bachhas/Cafe-Bunny/blob/main/Documentation/Lab%204%20-%20Software%20Configuration%20Management%20Plan.pdf)
 11. Document to ensure that the development processes are repeatable and produce consistent results: [Lab 5 - CMMI Level 2 Definition.pdf](https://github.com/nikita-bachhas/Cafe-Bunny/blob/main/Documentation/Lab%205%20-%20CMMI%20Level%202%20Definition.pdf)
 12. Features tested and personnel involved: [Lab 5 - Cafe Bunny Test Cases and Coverage report.pdf](https://github.com/nikita-bachhas/Cafe-Bunny/blob/main/Documentation/Lab%205%20-%20Cafe%20Bunny%20Test%20Cases%20and%20Coverage%20report.pdf)
 13. Presentation and summary of the project: [CZ3002 Presentation.pptx](https://github.com/nikita-bachhas/Cafe-Bunny/blob/main/Documentation/CZ3002%20Presentation.pptx)
